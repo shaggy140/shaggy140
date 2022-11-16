@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [SaaS app](https://github.com/kaswanp1406/SaaS-app)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [kaswanp1406.github.io](https://kaswanp1406.github.io)
 
