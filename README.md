@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [kaswanp1406.github.io](kaswanp1406.github.io)
+- 👨‍💻 All of my projects are available at [kaswanp1406.github.io](https://kaswanp1406.github.io)
 
 - 📫 How to reach me **pradeepkaswan7@gmail.com**
 
