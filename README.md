@@ -7,9 +7,9 @@
 
 
 
-- 🔭 I’m currently working on [SaaS app](https://github.com/kaswanp1406/SaaS-app)
+- 🔭 I’m currently working on Node.js
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Backend Stack**
 
 - 👨‍💻 All of my projects are available at [kaswanp1406.github.io](https://kaswanp1406.github.io)
 
@@ -19,7 +19,7 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://twitter.com/kaswanp1406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaswanp1406" height="30" width="40" /></a>
+<a href="https://twitter.com/Shaggy_1406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Shaggy_1406" height="30" width="40" /></a>
 </p>
 
 ### Languages and Tools
