@@ -35,7 +35,7 @@
 <p align="center">
     <a href="https://twitter.com/shaggy_1406"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
     <a href="https://open.spotify.com/user/o7qajojhiqv8ahmg1jj7bdlgm?si=IqZ2CgIIQkin9tUkr16KBg"><img src="https://img.shields.io/badge/Spotify- 1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/olivertuesta/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/kaswanp1406/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 <br/>
     
