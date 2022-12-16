@@ -1,23 +1,17 @@
-<h1 align="center">Hi there 👋🏻, I'm <a href="https://kaswanp1406.github.io/Portfolio/">Pradeep</a>!</h1>
-<h3 align="center">A Developer from India</h3>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" height="35px" width="35px">, I'm <a href="https://kaswanp1406.github.io/Portfolio/">Pradeep</a>!</h1>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaswanp1406&label=Profile%20views&color=0e75b6&style=flat" alt="kaswanp1406" /> </p> -->
 ![](https://visitor-badge.laobi.icu/badge?page_id=kaswanp1406.kaswanp1406)
 [![Github](https://img.shields.io/github/followers/kaswanp1406?label=Follow&style=social)](https://github.com/kaswanp1406)
 
+### About me
 
-
-- 🔭 I’m currently working on Node.js
-
-- 🌱 I’m currently learning **Backend Stack**
-
+- 🌱 I’m currently learning **Web development**
 - 👨‍💻 All of my projects are available at [kaswanp1406.github.io](https://kaswanp1406.github.io)
-
-- 📫 How to reach me **pradeepkaswan7@gmail.com**
-
+- 📫 How to reach me <a href="https://twitter.com/shaggy_1406">@shaggy_1406</a>
+- 👀 I'm interested in Web development 
 - 📄 Know about my experiences [https://www.dropbox.com/s/34tkdgp1y2ptaj8/PK_resume_final.pdf?dl=0](https://www.dropbox.com/s/34tkdgp1y2ptaj8/PK_resume_final.pdf?dl=0)
 
-### Connect with me:
+### Connect with me
 <p align="left">
 <a href="https://twitter.com/Shaggy_1406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Shaggy_1406" height="30" width="40" /></a>
 </p>
@@ -39,8 +33,10 @@
 <img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <br />
 
-### Github stats:
+### Github stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaswanp1406&theme=nord_dark)
 
-
+<p align="center"> 
+    <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
+</p>
