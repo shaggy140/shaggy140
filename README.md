@@ -1,6 +1,5 @@
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" height="35px" width="35px">, I'm <a href="https://kaswanp1406.github.io/Portfolio/">Pradeep</a>!</h1>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=kaswanp1406.kaswanp1406)
 [![Github](https://img.shields.io/github/followers/kaswanp1406?label=Follow&style=social)](https://github.com/kaswanp1406)
 
 ### About me
@@ -10,11 +9,6 @@
 - 📫 How to reach me <a href="https://twitter.com/shaggy_1406">@shaggy_1406</a>
 - 👀 I'm interested in Web development 
 - 📄 Know about my experiences [https://www.dropbox.com/s/34tkdgp1y2ptaj8/PK_resume_final.pdf?dl=0](https://www.dropbox.com/s/34tkdgp1y2ptaj8/PK_resume_final.pdf?dl=0)
-
-### Connect with me
-<p align="left">
-<a href="https://twitter.com/Shaggy_1406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Shaggy_1406" height="30" width="40" /></a>
-</p>
 
 ### Languages and Tools
 
@@ -37,6 +31,14 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaswanp1406&theme=nord_dark)
 
+### Connect with me
+<p align="center">
+    <a href="https://twitter.com/shaggy_1406"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+    <a href="https://open.spotify.com/user/o7qajojhiqv8ahmg1jj7bdlgm?si=IqZ2CgIIQkin9tUkr16KBg"><img src="https://img.shields.io/badge/Spotify- 1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/olivertuesta/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+<br/>
+    
 <p align="center"> 
     <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true" />
 </p>
