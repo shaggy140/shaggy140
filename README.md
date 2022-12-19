@@ -1,11 +1,11 @@
-<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" height="35px" width="35px">, I'm <a href="https://kaswanp1406.github.io/Portfolio/">Pradeep</a>!</h1>
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/zluvsand/zluvsand/master/wave.gif" height="35px" width="35px">, I'm <a href="https://shaggy140.github.io/Portfolio/">Pradeep</a>!</h1>
 
-[![Github](https://img.shields.io/github/followers/kaswanp1406?label=Follow&style=social)](https://github.com/kaswanp1406)
+[![Github](https://img.shields.io/github/followers/shaggy140?label=Follow&style=social)](https://github.com/shaggy140)
 
 ### About me
 
 - 🌱 I’m currently learning **Web development**
-- 👨‍💻 All of my projects are available at [shaggy-1406.github.io](https://shaggy-1406.github.io)
+- 👨‍💻 All of my projects are available at [shaggy140.github.io](https://shaggy140.github.io)
 - 📫 How to reach me <a href="https://twitter.com/shaggy_1406">@shaggy_1406</a>
 - 👀 I'm interested in Web development 
 - 📄 Know about my experiences [https://www.dropbox.com/s/34tkdgp1y2ptaj8/PK_resume_final.pdf?dl=0](https://www.dropbox.com/s/34tkdgp1y2ptaj8/PK_resume_final.pdf?dl=0)
